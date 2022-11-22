@@ -1,5 +1,5 @@
 body {
-    background: #9ef10500
+    background: #a0f60100
  }
 
 h1 {
@@ -14,4 +14,5 @@ em  {
 strong { color:rgba(165, 237, 42, 0.935)}    
 
 
-
+h2 {
+    text-align: center;}
